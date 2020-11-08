@@ -26,7 +26,9 @@ print()
  Berikut penjelasan Latihan1.py :
  
  *  **import random** berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak
- *  **nilai = int(input("Masukan Nilai n : "))** 
+ *  **nilai = int(input("Masukan Nilai n : "))** Untuk menginputkan nilai berupa interger
+ *  **range()** Berfungsi untuk menghasilkan list
+ *  **print("Data ke: ",a,"=>",random.uniform(0, 0.5))** digunakan untuk menampilkan bilangan float random dan menampilkan output data
     
     
     
