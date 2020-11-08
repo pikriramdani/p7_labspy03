@@ -11,10 +11,8 @@ Kelas   : TI.20.A.1<br>
 
 **Soal**
    
-     >  Tampilkan n bilangan acak yang lebih kecil dari (0, 0.5) <br>
-     >  Nilai n pada saat runtime
-     >  Anda bisa menggunakan while atau for untuk menyelesaikannya
-     >  Gunakan fungsi random () yang dapat di'import terlebih dahulu
+   Tampilkan n bilangan acak yang lebih kecil dari (0, 0.5)
+    
     
     
     
