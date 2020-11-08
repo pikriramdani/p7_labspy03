@@ -31,7 +31,7 @@ print()
  *  **random.uniform** digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x dan batas akhir bilangan y.
  *  **("Data ke: ",a,"=>",random.uniform(0, 0.5))** Untuk Menampilkan Otput data
  
- hasil Outputnya:
+ hasil Outputnya:<br><br>
  ![hasil outputan latihan 1](gambar/output1.PNG)
  
 
