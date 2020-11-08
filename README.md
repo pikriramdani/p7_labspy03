@@ -18,17 +18,23 @@ n=int(input("Masukan Nilai N : "))
 
 import random
 
-for a in list(range(1,n+1,1)):
-    print("Data ke: ",a,"=>",random.uniform(0, 0.5))
+for x in list(range(1,n+1,1)):
+    print("Data ke: ",x,"=>",random.uniform(0, 0.5))
 
 print()
 ```
  Berikut penjelasan Latihan1.py :
  
- *  **import random** berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak
+ *  **import random** berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak.
  *  **nilai = int(input("Masukan Nilai n : "))** Untuk menginputkan nilai berupa interger
- *  **range()** Berfungsi untuk menghasilkan list
- *  **print("Data ke: ",a,"=>",random.uniform(0, 0.5))** digunakan untuk menampilkan bilangan float random dan menampilkan output data
+ *  **range()** Berfungsi untuk menghasilkan list.
+ *  **random.uniform** digunakan untuk menampilkan bilangan float random dengan batas awal bilangan x dan batas akhir bilangan y.
+ *  **("Data ke: ",a,"=>",random.uniform(0, 0.5))** Untuk Menampilkan Otput data
+ 
+ hasil Outputnya:
+ ![hasil outputan latihan 1](gambar/output1.PNG)
+ 
+
     
     
     
