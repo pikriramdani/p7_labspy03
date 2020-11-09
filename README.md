@@ -11,7 +11,7 @@ Kelas   : TI.20.A.1<br>
 
 ![latihan 1](gambar/soallatihan1.PNG)<br>
 
-Berikut Source code yang saya tulis untuk menjadikan aplikasi tersebut.
+Berikut Source code perintah diatas yang saya tulis untuk menjadikan aplikasi tersebut.
 
 ``` python
 n=int(input("Masukan Nilai N : "))
@@ -23,7 +23,7 @@ for x in list(range(1,n+1,1)):
 
 print()
 ```
- Berikut penjelasan Latihan1.py :
+Dari source code diatas akan saya jelaskan beberapa syntax atau functionnya.
  
  *  **import random** berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak.
  *  **nilai = int(input("Masukan Nilai n : "))** Untuk menginputkan nilai berupa interger
