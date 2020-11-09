@@ -35,7 +35,12 @@ Dari source code diatas akan saya jelaskan beberapa syntax atau functionnya.
  ![hasil outputan latihan 1](gambar/output1.PNG)
  
 
-    
+### Alur Algoritma Latihan 2    
+<hr>
+<br>
+ 
+Pada bagian ini saya akan menyelesaikan tugas dari dosen dalam materi latihan 2, seperti gambar dibawah ini<br>
+![soal latihan 2](gambar/soallatihan2.PNG)
     
     
     
